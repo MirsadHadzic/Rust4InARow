@@ -15,5 +15,5 @@ For this project, we needed to install VS Code, Rust, the Rust extension in Visu
 For this project, we didn't need to import lots of libraries. The only library we needed was std. This allowed us to use std::io:stdin() for getting input from the user, and std::process::exit() to kill the program when necessary.
 
 # Useful Websites
-https://www.rust-lang.org/tools/install
-https://stackoverflow.com/questions/30355185/how-to-read-an-integer-input-from-the-user-in-rust-1-0
+1. https://www.rust-lang.org/tools/install
+2. https://stackoverflow.com/questions/30355185/how-to-read-an-integer-input-from-the-user-in-rust-1-0
